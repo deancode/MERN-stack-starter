@@ -1,7 +1,7 @@
 {
-  "name": "umber",
+  "name": "MERN-stack-starter",
   "version": "0.0.0",
-  "description": "mern project",
+  "description": "To give a head start on a MERN stack project",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
